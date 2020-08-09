@@ -1,0 +1,82 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "400",
+               "short_name" : "400",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Southeast Adams Boulevard",
+               "short_name" : "SE Adams Blvd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bartlesville",
+               "short_name" : "Bartlesville",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Washington County",
+               "short_name" : "Washington County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Oklahoma",
+               "short_name" : "OK",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "74003",
+               "short_name" : "74003",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "3614",
+               "short_name" : "3614",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "400 SE Adams Blvd, Bartlesville, OK 74003, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 36.74653620000001,
+               "lng" : -95.97387689999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.74788518029151,
+                  "lng" : -95.9725279197085
+               },
+               "southwest" : {
+                  "lat" : 36.74518721970851,
+                  "lng" : -95.9752258802915
+               }
+            }
+         },
+         "place_id" : "ChIJ_6Pza44Tt4cRJ0eeiI119_M",
+         "plus_code" : {
+            "compound_code" : "P2WG+JC Bartlesville, OK, USA",
+            "global_code" : "8686P2WG+JC"
+         },
+         "types" : [
+            "atm",
+            "convenience_store",
+            "establishment",
+            "finance",
+            "food",
+            "gas_station",
+            "point_of_interest",
+            "store"
+         ]
+      }
+   ],
+   "status" : "OK"
+}
